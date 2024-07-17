@@ -26,7 +26,7 @@ The component comes pre-configured with sensible defaults which can be customize
 
 For detailed configuration options, refer to the [vanilla-cookieconsent documentation](https://cookieconsent.orestbida.com/reference/configuration-reference.html).
 
-# Customization with Property Controls
+## Customization with Property Controls
 
 You can add property controls to customize the settings directly within Framer. For example, to adjust the position of the consent banner:
 
