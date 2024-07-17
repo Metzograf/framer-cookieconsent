@@ -24,7 +24,7 @@ The component comes pre-configured with sensible defaults which can be customize
 - categories: Definitions for necessary and analytics cookies.
 - language: Multi-language support with English as the default.
 
-For detailed configuration options, refer to the [vanilla-cookieconsent documentation]([https://github.com/orestbida/cookieconsent](https://cookieconsent.orestbida.com/reference/configuration-reference.html).
+For detailed configuration options, refer to the [vanilla-cookieconsent documentation](https://cookieconsent.orestbida.com/reference/configuration-reference.html).
 
 # Customization with Property Controls
 
